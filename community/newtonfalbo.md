@@ -12,9 +12,8 @@ Olá, estou inicinado na área de programação, porém já tendo um certo conhe
 
 ## Habilidades
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
 ## Sistema Operacional
 
